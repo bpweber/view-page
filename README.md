@@ -1,1 +1,1 @@
-![alt text](https://github.com/bpweber/lightdm-webkit2-theme-min/blob/master/example.png "Theme in usage")
+![alt text](https://github.com/bpweber/view-page/blob/master/viewpage.png "View page for configs")
